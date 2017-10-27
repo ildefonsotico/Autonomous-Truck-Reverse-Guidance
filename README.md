@@ -18,6 +18,6 @@ Reverse Guidance system calculates the optimum reversing path for a truck to fol
 
 6 - When the spot is reached, a continuous audible prompt is issued. 
 
-The follow links shows a presentation of the reverse guidance product at Las Vegas conference in 2017: https://www.youtube.com/watch?v=V7-0Jj_6yyA
+The follow link shows a presentation of the reverse guidance product at Las Vegas conference in 2017: https://www.youtube.com/watch?v=V7-0Jj_6yyA
 
 
