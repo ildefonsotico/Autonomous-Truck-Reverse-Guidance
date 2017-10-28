@@ -2,6 +2,7 @@
 The Reverse Guidance is the first block of the Autonomous Truck Project building by Hexagon Mining.
 The follow link talk about this key step of Autonomous toward the Full Autonomous Haulage: http://hexagonmining.com/blog/2017/10/13/reverse-guidance-key-step-to-autonomous-haulage?utm_source=hootsuite&utm_medium=linkedin&utm_campaign=blog
 
+
 How Reverse Guidance works:
 
 Reverse Guidance system calculates the optimum reversing path for a truck to follow when backing into a shovel pit to be loaded, or when backing to a hopper to unload.
