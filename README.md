@@ -46,6 +46,7 @@ The follow link shows a presentation of the reverse guidance product at Las Vega
 
 ### Patent Published ###
 
-There is a Patent published with Reverse Guidance assistance maneuver. This patent show the main people worked on that.
+There is a Patent published with Reverse Guidance assistance maneuver. 
+Ildefonso Neto is Design Engineer of the Autonomous Team at Hexagon Mining. The patent assign the Autonomous Team members as inventors.   
 
 <img src="https://user-images.githubusercontent.com/19958282/32137070-ddaf8960-bbf7-11e7-98e5-489a56c3e56f.png" alt="Patent" width="800px">
