@@ -2,7 +2,7 @@
 
 The Reverse Guidance is the first block of the Autonomous Truck Project building by Hexagon Mining.
 
-The follow link talk about this key step of Autonomous toward the Full Autonomous Haulage: http://hexagonmining.com/blog/2017/10/13/reverse-guidance-key-step-to-autonomous-haulage?utm_source=hootsuite&utm_medium=linkedin&utm_campaign=blog
+The follow link talk about this key step of Autonomous toward the Full Autonomous Haulage:<img src="http://hexagonmining.com/blog/2017/10/13/reverse-guidance-key-step-to-autonomous-haulage?utm_source=hootsuite&utm_medium=linkedin&utm_campaign=blog" alt="Reverse Guidance - Hexagon Description" width="800px"> 
 
 <img src="http://hexagonmining.com/-/media/Images/Hexagon/Hexagon%20Core/Hexagon%20Mining/Blog/2017/October/reverse_guidance.ashx?la=en&hash=CA5F87E54FBA7720497BAA113E2D984563649371" alt="Reverse-Guidance" width="800px">
 
@@ -48,4 +48,4 @@ The follow link shows a presentation of the reverse guidance product at Las Vega
 
 There is a Patent published with Reverse Guidance assistance maneuver. This patent show the main people worked on that.
 
-<img src="https://drive.google.com/open?id=0BwzIMJqrTehjcWl4Vl9TZC0tVEk" alt="Self-Driving Car" width="800px">
+<img src="https://drive.google.com/open?id=0BwzIMJqrTehjcWl4Vl9TZC0tVEk" alt="Patent" width="800px">
