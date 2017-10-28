@@ -47,5 +47,5 @@ The follow link shows a presentation of the reverse guidance product at Las Vega
 ### Patent Published ###
 
 There is a Patent published with Reverse Guidance assistance maneuver. This patent show the main people worked on that.
-https://drive.google.com/open?id=0BwzIMJqrTehjNm1VbnhBMmp5Z0U
-<img src="https://drive.google.com/open?id=0BwzIMJqrTehjNm1VbnhBMmp5Z0U" alt="Self-Driving Car" width="800px">
+
+<img src="https://drive.google.com/open?id=0BwzIMJqrTehjcWl4Vl9TZC0tVEk" alt="Self-Driving Car" width="800px">
